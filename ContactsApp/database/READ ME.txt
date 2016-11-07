@@ -1,0 +1,18 @@
+
+### EXECUTE OPTION 1 OR OPTION 2 ###
+
+1) Use supplied mySQL database : "contacts_db" folder
+
+-or-
+
+2) Create identical database using supplied script : "Contacts_ddl.sql" on mySQL
+
+- -
+##################################################################################
+
+developer 	: K. Molotsi
+project 	: recruitment excercise (jnr PHP Developer)
+
+Developed using PHP 5.6 on NETBEANS 8.0.2 IDE
+Uses a mySQL database and runs on an apache server (XAMPP 3.2.2)
+other tools : HTML, CSS

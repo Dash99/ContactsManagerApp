@@ -1,0 +1,69 @@
+
+/* 
+    Created on : Nov 06, 2016, 6:55:49 AM
+    Author     : Kamogelo Molotsi <kmolotsi.developer@gmail.com>*/
+
+
+.container{
+    width:700px; height:auto;
+    alignment-adjust: middle;
+    margin-left: auto; margin-right: auto;
+    background-color: white;
+}
+
+.header{
+    background-image: url("../Views/img/header.jpg");
+    width: 700px; height: 50px;
+}
+
+.menu{
+    width: 250px;
+    float: left;
+}
+
+.menu li{
+    list-style: none;
+    width: 230px; height: 60px;
+    font-size: 24px;
+    font-family: TimeBurner;
+    background-color: #dedddd;
+}
+
+.main_display{
+    float: right;
+}
+
+.display{
+    float: right;
+    width: 350px;
+    font-size: 16px;
+}
+
+.column{
+    width: 150px;
+    float: left;
+    font-size: 16px;
+    padding-left: 20px;
+}
+
+.form input{
+    font-family: TimeBurner, Courier;
+    font-size: 20px;
+}
+
+.footer{
+    background-image: url("../Views/img/footer.jpg");
+    width: 700px; height: 50px;
+    clear: both;
+}
+
+body{
+    font-family: TimeBurner, Courier;
+    font-size: 20px;
+    background-image: url("../Views/img/bg.jpg");
+    padding-top: 100px;
+}
+
+a{
+    text-decoration: none;
+}
